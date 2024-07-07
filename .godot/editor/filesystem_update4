@@ -1,0 +1,8 @@
+res://Maps/world.tscn
+res://Maps/CartoonTiles.tres
+res://Maps/SportTiles.tres
+res://Maps/BuildTiles.tres
+res://Maps/Plain.tres
+res://Nodes/PCs/player.tscn
+res://Nodes/Objects/build_tiles.tscn
+res://Nodes/Objects/cartoon_tiles.tscn

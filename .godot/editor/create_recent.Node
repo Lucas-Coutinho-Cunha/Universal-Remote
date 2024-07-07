@@ -1,0 +1,15 @@
+OmniLight3D
+CollisionShape3D
+StaticBody3D
+GridMap
+ShaderGlobalsOverride
+Node3D
+CSGBox3D
+ResourcePreloader
+WorldEnvironment
+Area3D
+DirectionalLight3D
+AnimationTree
+AudioStreamPlayer
+Area2D
+Camera3D
